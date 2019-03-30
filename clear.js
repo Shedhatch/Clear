@@ -2,7 +2,7 @@
 *@file editor Thomas Weland
 *@type discord.js
 *@npm (nothing)
-*@file needed [commands]
+*@file put it in [commands]
 
 
 */
