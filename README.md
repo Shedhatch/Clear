@@ -8,7 +8,7 @@
 
 # File
 
-This file need to be insert inside the command file
+This file need to be insert inside your commands file.
 You can find the commands file by follow this link : https://github.com/Nightcore3996/Commands-file 
 
 # Command 
