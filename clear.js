@@ -1,12 +1,3 @@
-/*
-*@file editor Thomas Weland
-*@type discord.js
-*@npm (nothing)
-*@file put it in [commands]
-
-
-*/
-  
 
   module.exports.run = async (bot, message, args) => {
 
