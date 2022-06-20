@@ -13,7 +13,7 @@ Find more about <b>Commands-file</b> <a href=https://github.com/Shedhatch/Comman
 # How to use <b>Clear.js</b> ?
 
 1- You'll need to define a prefix
-2- Ue clear following your prefix
+2- Use clear following your prefix
 3- Idicate the amount of message you would like to delete
 
 Usage:<br>
