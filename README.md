@@ -1,21 +1,29 @@
 # Clear
-(Discord.js)
+A command that will help you to clear a specific number of messages in a row.
 
 # Modules
-
 - npm i discord.js
 - npm i node.js
 
 # File
+<b>Clear.js</b> should be inserted in your <u>Commands-file</u>
 
-This file need to be insert inside your commands file.
-You can find the commands file by follow this link : https://github.com/Nightcore3996/Commands-file 
+Find more about <b>Commands-file</b> <a href=https://github.com/Shedhatch/Commands-file> right here </a>
 
-# Command 
+# How to use <b>Clear.js</b> ?
 
-(put your prefix before 'clear')
+1- You'll need to define a prefix
+2- Ue clear following your prefix
+3- Idicate the amount of message you would like to delete
 
-[TO DELETE MESSAGES]
+Usage:<br>
+<your_prefix / clear / amount_of_messages>
 
-<clear_amount of messages>
+Example (prefix = "/"):<br>
+/clear 10 (will clear 10 messages)
 
+# Version V11 -> V12
+
+The following code Is not <strong>up to date</strong> (running under V11)
+
+You can learn more about It by following <a href=https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start>this link</a>
