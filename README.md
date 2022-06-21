@@ -26,3 +26,8 @@ A command that will help you to clear a specific number of messages in a row.
 
 - [x] The following code Is <strong>not up to date</strong> (running under V11)<br>
 - You can learn more V12 It by following <a href=https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start>this link</a>
+
+### Fix version Issue
+
+Update <a href=https://github.com/Shedhatch/Clear/issues/1#issue-893496417>this line</a>, thus, your code will be working on Discord V12<br>
+Many thanks to [@Flattty](https://github.com/Flattty) for pointing it out !
