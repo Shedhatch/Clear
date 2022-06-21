@@ -1,7 +1,7 @@
 # Clear
 A command that will help you to clear a specific number of messages in a row.
 
-# Modules
+# Modules (2)
 ```
 - npm i discord.js
 - npm i node.js
